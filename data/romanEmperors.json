@@ -1,0 +1,144 @@
+[
+  { "imgSrc": "./imgs/emperors/antoninus.jpg", 
+    "name": "antoninus", 
+    "title": "Antoninus", 
+    "text": "Antoninus Pius (Roman emperor ad 138–161). Of Gallic origins, he served as consul (120) before being assigned judicial administrative duties in Italy. He later governed the province of Asia (c. 134). He became an adviser to Hadrian and in 138 was made Hadrian’s heir. On accession he had the deceased emperor declared a god; for such dutiful acts he was named Pius (“Pious”). He quelled rebellions in Britain and other provinces and built the Antonine Wall."
+   },
+  { "imgSrc": "./imgs/emperors/augustus.jpg", 
+    "name": "augustus", 
+    "title": "Augustus", 
+    "text": "Augustus (also known as Octavian) was the first emperor of ancient Rome. Augustus came to power after the assassination of Julius Caesar in 44 BCE. In 27 BCE Augustus “restored” the republic of Rome, though he himself retained all real power as the princeps, or “first citizen,” of Rome. Augustus held that title until his death in 14 CE. Today he is remembered as one of the great administrative geniuses of Western history."
+  },
+
+  { "imgSrc": "./imgs/emperors/caligula.jpg", 
+    "name": "caligula", 
+    "title": "Caligula", 
+    "text": "Caligula was a Roman emperor from 37 to 41 ad, in succession after Tiberius. Caligula effected the transfer of the last legion that had been under a senatorial proconsul (in Africa) to an imperial legate, thus completing the emperor’s monopoly of army command. Accounts of Caligula’s reign by ancient historians are so biased against him that the truth is almost impossible to disentangle."
+  },
+
+  { "imgSrc": "./imgs/emperors/claudius.jpg",
+    "name": "claudius", 
+    "title": "Claudius", 
+    "text": "Claudius was a Roman emperor from 41 to 54 ad. Nephew of Tiberius, Claudius became emperor unexpectedly after Caligula was murdered. Sickly, clumsy, unattractive, and scholarly, he wrote several histories, none of which survive. He was ruthless toward individual senators and the equites (see eques) and tended to disfavour the upper classes but catered to the freedmen. "
+  },
+
+  { "imgSrc": "./imgs/emperors/commodus.jpg",
+    "name": "commodus", 
+    "title": "Commodus", 
+    "text": "Commodus was Roman emperor from 177 to 192 (sole emperor after 180). His brutal misrule precipitated civil strife that ended 84 years of stability and prosperity within the empire. His fictionalized depiction as a mad emperor in the film Gladiator actually plays down some of his less believable excesses while giving him a nobler death."
+  },
+
+  { "imgSrc": "./imgs/emperors/hadrian.jpg", 
+    "name": "hadrian", 
+    "title": "Hadrian", 
+    "text": "Hadrian, Roman emperor (117–38), was Trajan’s nephew and successor. After years of intrigue, he was adopted and named successor just before Trajan’s death. He executed his senatorial opponents, abandoned Trajan’s conquests in Armenia and Mesopotamia, and coped with unrest in Mauretania and Parthia. He traveled widely, and many of his accomplishments were related to his visits abroad."
+  },
+
+  { "imgSrc": "./imgs/emperors/lucius_verus.png", 
+    "name": "lucius_verus", 
+    "title": "Lucius Verus", 
+    "text": "Lucius Verus, was a Roman emperor jointly (161–169) with Marcus Aurelius. Though he enjoyed equal constitutional status and powers, he did not have equal authority, nor did he seem capable of bearing his share of the responsibilities."
+  },
+
+  { "imgSrc": "./imgs/emperors/marcus_aurelius.jpg", 
+    "name": "marcus_aurelius", 
+    "title": "Marcus Aurelius", 
+    "text": "Marcus Aurelius, Roman emperor (161–180), is best known for his Meditations on Stoic philosophy. Marcus Aurelius has symbolized for many generations in the West the Golden Age of the Roman Empire. His reign was marked by numerous military crises, all the major frontiers being threatened by invasion. His Meditations on Stoicism, considered one of the great books of all times, gives a full picture of his religious and moral values. His reign is often thought to mark the Golden Age of Rome."
+  },
+
+  { "imgSrc": "./imgs/emperors/nero.jpg", 
+    "name": "nero", 
+    "title": "Nero", 
+    "text": "Nero, Roman emperor (54–68) was was adopted by Claudius when the emperor married Nero’s mother, Agrippina the Younger, and took the throne after Claudius died. He was guided by his tutor, Seneca, and by Agrippina until he murdered her and broke free of his advisers. In 64 a fire, possibly lit at his orders, destroyed much of Rome. Nero came to be regarded as mad, giving public lyre and theatrical performances to the disgust of his subjects. Condemned by the Senate, he chose suicide over execution."
+  },
+
+  { "imgSrc": "./imgs/emperors/tiberius.jpg", 
+    "name": "tiberius", 
+    "title": "Tiberius", 
+    "text": "Tiberius, Second Roman emperor (ad 14–37). He was raised by Augustus, who had married his mother, Livia Drusilla. As emperor he initially ran the state efficiently and instituted some reforms, with only occasional severity, such as exiling Rome’s Jewish population on a pretext. But he became increasingly violent, killing and torturing at a whim. In 37 the Praetorian Guard declared its support for Caligula and killed Tiberius when he was on his sickbed."
+  },
+ 
+  { "imgSrc": "./imgs/emperors/trajan.jpg", 
+    "name": "trajan", 
+    "title": "Trajan", 
+    "text": "Trajan, Roman emperor (98–117), was adopted by Nerva as his successor. After Nerva’s death in 98, he deified the former emperor and named himself Jupiter’s representative on earth. He gave the Senate new authority, reduced taxes, supported the poor with government welfare, reformed provincial administration, and built public works. He was campaigning in Asia when revolts broke out in conquered territories. Discouraged and ill, he died on his journey to Rome."
+  },
+
+  { "imgSrc": "./imgs/emperors/vespasian.jpg", 
+    "name": "vespasian", 
+    "title": "Vespasian", 
+    "text": "Vespasian, Roman emperor (69–79), founder of the Flavian dynasty. After the murder of Galba, Vespasian was proclaimed emperor by the legions. Although he claimed absolute power and took every possible office for himself and his sons, he was a popular emperor and lived simply. He increased provincial taxation to pay for the deficits incurred by Nero and the civil wars, built the Temple of Peace and began the Colosseum, and reformed the army and Praetorian Guard."
+  },
+
+  
+  { "imgSrc": "./imgs/emperors/antoninus.jpg", 
+    "name": "antoninus", 
+    "title": "Antoninus", 
+    "text": "Antoninus Pius (Roman emperor ad 138–161). Of Gallic origins, he served as consul (120) before being assigned judicial administrative duties in Italy. He later governed the province of Asia (c. 134). He became an adviser to Hadrian and in 138 was made Hadrian’s heir. On accession he had the deceased emperor declared a god; for such dutiful acts he was named Pius (“Pious”). He quelled rebellions in Britain and other provinces and built the Antonine Wall."
+   },
+  { "imgSrc": "./imgs/emperors/augustus.jpg", 
+    "name": "augustus", 
+    "title": "Augustus", 
+    "text": "Augustus (also known as Octavian) was the first emperor of ancient Rome. Augustus came to power after the assassination of Julius Caesar in 44 BCE. In 27 BCE Augustus “restored” the republic of Rome, though he himself retained all real power as the princeps, or “first citizen,” of Rome. Augustus held that title until his death in 14 CE. Today he is remembered as one of the great administrative geniuses of Western history."
+  },
+
+  { "imgSrc": "./imgs/emperors/caligula.jpg", 
+    "name": "caligula", 
+    "title": "Caligula", 
+    "text": "Caligula was a Roman emperor from 37 to 41 ad, in succession after Tiberius. Caligula effected the transfer of the last legion that had been under a senatorial proconsul (in Africa) to an imperial legate, thus completing the emperor’s monopoly of army command. Accounts of Caligula’s reign by ancient historians are so biased against him that the truth is almost impossible to disentangle."
+  },
+
+  { "imgSrc": "./imgs/emperors/claudius.jpg",
+    "name": "claudius", 
+    "title": "Claudius", 
+    "text": "Claudius was a Roman emperor from 41 to 54 ad. Nephew of Tiberius, Claudius became emperor unexpectedly after Caligula was murdered. Sickly, clumsy, unattractive, and scholarly, he wrote several histories, none of which survive. He was ruthless toward individual senators and the equites (see eques) and tended to disfavour the upper classes but catered to the freedmen. "
+  },
+
+  { "imgSrc": "./imgs/emperors/commodus.jpg",
+    "name": "commodus", 
+    "title": "Commodus", 
+    "text": "Commodus was Roman emperor from 177 to 192 (sole emperor after 180). His brutal misrule precipitated civil strife that ended 84 years of stability and prosperity within the empire. His fictionalized depiction as a mad emperor in the film Gladiator actually plays down some of his less believable excesses while giving him a nobler death."
+  },
+
+  { "imgSrc": "./imgs/emperors/hadrian.jpg", 
+    "name": "hadrian", 
+    "title": "Hadrian", 
+    "text": "Hadrian, Roman emperor (117–38), was Trajan’s nephew and successor. After years of intrigue, he was adopted and named successor just before Trajan’s death. He executed his senatorial opponents, abandoned Trajan’s conquests in Armenia and Mesopotamia, and coped with unrest in Mauretania and Parthia. He traveled widely, and many of his accomplishments were related to his visits abroad."
+  },
+
+  { "imgSrc": "./imgs/emperors/lucius_verus.png", 
+    "name": "lucius_verus", 
+    "title": "Lucius Verus", 
+    "text": "Lucius Verus, was a Roman emperor jointly (161–169) with Marcus Aurelius. Though he enjoyed equal constitutional status and powers, he did not have equal authority, nor did he seem capable of bearing his share of the responsibilities."
+  },
+
+  { "imgSrc": "./imgs/emperors/marcus_aurelius.jpg", 
+    "name": "marcus_aurelius", 
+    "title": "Marcus Aurelius", 
+    "text": "Marcus Aurelius, Roman emperor (161–180), is best known for his Meditations on Stoic philosophy. Marcus Aurelius has symbolized for many generations in the West the Golden Age of the Roman Empire. His reign was marked by numerous military crises, all the major frontiers being threatened by invasion. His Meditations on Stoicism, considered one of the great books of all times, gives a full picture of his religious and moral values. His reign is often thought to mark the Golden Age of Rome."
+  },
+
+  { "imgSrc": "./imgs/emperors/nero.jpg", 
+    "name": "nero", 
+    "title": "Nero", 
+    "text": "Nero, Roman emperor (54–68) was was adopted by Claudius when the emperor married Nero’s mother, Agrippina the Younger, and took the throne after Claudius died. He was guided by his tutor, Seneca, and by Agrippina until he murdered her and broke free of his advisers. In 64 a fire, possibly lit at his orders, destroyed much of Rome. Nero came to be regarded as mad, giving public lyre and theatrical performances to the disgust of his subjects. Condemned by the Senate, he chose suicide over execution."
+  },
+
+  { "imgSrc": "./imgs/emperors/tiberius.jpg", 
+    "name": "tiberius", 
+    "title": "Tiberius", 
+    "text": "Tiberius, Second Roman emperor (ad 14–37). He was raised by Augustus, who had married his mother, Livia Drusilla. As emperor he initially ran the state efficiently and instituted some reforms, with only occasional severity, such as exiling Rome’s Jewish population on a pretext. But he became increasingly violent, killing and torturing at a whim. In 37 the Praetorian Guard declared its support for Caligula and killed Tiberius when he was on his sickbed."
+  },
+ 
+  { "imgSrc": "./imgs/emperors/trajan.jpg", 
+    "name": "trajan", 
+    "title": "Trajan", 
+    "text": "Trajan, Roman emperor (98–117), was adopted by Nerva as his successor. After Nerva’s death in 98, he deified the former emperor and named himself Jupiter’s representative on earth. He gave the Senate new authority, reduced taxes, supported the poor with government welfare, reformed provincial administration, and built public works. He was campaigning in Asia when revolts broke out in conquered territories. Discouraged and ill, he died on his journey to Rome."
+  },
+
+  { "imgSrc": "./imgs/emperors/vespasian.jpg", 
+    "name": "vespasian", 
+    "title": "Vespasian", 
+    "text": "Vespasian, Roman emperor (69–79), founder of the Flavian dynasty. After the murder of Galba, Vespasian was proclaimed emperor by the legions. Although he claimed absolute power and took every possible office for himself and his sons, he was a popular emperor and lived simply. He increased provincial taxation to pay for the deficits incurred by Nero and the civil wars, built the Temple of Peace and began the Colosseum, and reformed the army and Praetorian Guard."
+  }
+]

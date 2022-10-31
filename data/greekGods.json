@@ -1,0 +1,144 @@
+[
+  { "imgSrc": "./imgs/gods/Aphrodite.jpg", 
+    "name": "aphrodite", 
+    "title": "Aphrodite", 
+    "text": "Aphrodite was the goddess of love, sex, and beauty. Unsurprisingly for a love goddess, she was said to have emerged from the foam generated when the severed testicles of her father, Uranus, were thrown into the sea by his son, the Titan Cronus. Her attributes included a dove, apple, scallop shell and mirror. In classical sculpture and fresco she was usually depicted nude."
+   },
+  { "imgSrc": "./imgs/gods/Apollo.jpg", 
+    "name": "apollo", 
+    "title": "Apollo", 
+    "text": "The twin brother of Artemis, Apollo was among the most important (read: feared) of the gods. He was the Olympian god of prophecy and oracles, music, song and poetry, archery, healing, plague and disease, and the protection of the young. He was depicted as a handsome, beardless youth with long hair and attributes such as a wreath and branch of laurel, bow and quiver of arrows, raven, and lyre."
+  },
+
+  { "imgSrc": "./imgs/gods/Ares.jpg", 
+    "name": "ares", 
+    "title": "Ares", 
+    "text": "Ares was the god of bloodlust. (His half-sister Athena represented the more 'noble' aspects of combat and civil conduct during war.) Though his fellow deities weren’t particularly fond of him, the Spartans had no problems 'donating' some prisoners of war to his worship. In ancient Greek art he was depicted as either a mature, bearded warrior armed for battle, or a nude, beardless youth with a helm and spear. His Roman equivalent was Mars."
+  },
+
+  { "imgSrc": "./imgs/gods/Artemis.jpg",
+    "name": "artemis", 
+    "title": "Artemis", 
+    "text": "Artemis was the fleet-footed goddess of the hunt. Often depicted in painting and sculpture with a deer or a hunting dog, she was both huntress and protectress of childbirth and girls up to the age of marriage--her twin brother Apollon was similarly the protector of the boy child. Together the two gods were also bringers of sudden death and disease--Artemis targetted women and girls, Apollon men and boys. Her Roman equivalent was Diana."
+  },
+
+  { "imgSrc": "./imgs/gods/Athena.jpg",
+    "name": "athena", 
+    "title": "Athene", 
+    "text": "Athena was the goddess of reason, wisdom, and war. She famously sprung fully formed from the forehead of Zeus. A major figure in the Odyssey, in which she instructed Odysseus, she also guided Perseus and Heracles through their trials. The Parthenon was her chief temple in Athens, which is named in her honor. She was depicted as a stately woman armed with a shield and spear, and wearing a long robe, crested helm, and the famed aigis--a snake-trimmed cape adorned with the monstrous visage of the Gorgon Medousa (Medusa). Her Roman equivalent was Minerva."
+  },
+
+  { "imgSrc": "./imgs/gods/Demeter.jpg", 
+    "name": "demeter", 
+    "title": "Demeter", 
+    "text": "Demeter, an agricultural goddess, was mother to Persephone, who was abducted by the underworld god Hades to be his bride. While searching for her stolen daughter, she accepted the hospitality of the royal family of Eleusis. The Eleusinian Mysteries, perhaps the most important religious rites in ancient Greece, are attributed to her teachings. Demeter was depicted as a mature woman, often wearing a crown and bearing sheafs of wheat or a cornucopia (horn of plenty), and a torch.Her Roman equivalent was Ceres."
+  },
+
+  { "imgSrc": "./imgs/gods/Dionysus.jpg", 
+    "name": "dionysus", 
+    "title": "Dionysus", 
+    "text": "Dionysus was a son of Zeus born to a mortal mother. When Zeus accidentally killed her, he sewed the young Dionysus into his thigh and, when the young god emerged, passed him to the care of the maenads. He was the Olympian god of wine, vegetation, pleasure, festivity, madness and wild frenzy. He was depicted as either an older, bearded god or an effeminate, long-haired youth. His attributes included the thyrsos (a pine-cone tipped staff), a drinking cup and a crown of ivy. He was usually accompanied by a troop of Satyrs and Mainades (wild female devotees). Elements of his character are seen in the Roman god of wine, Bacchus."
+  },
+
+  { "imgSrc": "./imgs/gods/Hephaistos.jpg", 
+    "name": "hephaistos", 
+    "title": "Hephaistos", 
+    "text": "Hephaistos was the Olympian god of fire, smiths, craftsmen, metalworking, stonemasonry and sculpture. He was depicted as a bearded man holding a hammer and tongs - the tools of a smith - and sometimes riding a donkey."
+  },
+
+  { "imgSrc": "./imgs/gods/Hera.jpg", 
+    "name": "hera", 
+    "title": "Hera", 
+    "text": "The queen goddess of Olympus, Hera was both sister and wife to Zeus. Though she is often depicted as reserved and austere, she was mercilessly vindictive when it came to her husband’s many extramarital adventures. Unfortunately for the objects of Zeus’s godly affections, Hera tended to torment the other women (and their offspring, including Heracles) rather than Zeus himself. You can often see her wearing a crown and holding a royal, lotus-tipped sceptre. Her Roman equivalent was Juno."
+  },
+
+  { "imgSrc": "./imgs/gods/Hermes.jpg", 
+    "name": "hermes", 
+    "title": "Hermes", 
+    "text": "Hermes was the Olympian god of herds and flocks, travellers and hospitality, roads and trade, thievery and cunning, heralds and diplomacy, language and writing, athletic contests and gymnasiums, astronomy and astrology. He was the herald and personal messenger of Zeus, King of the Gods, and also the guide of the dead who led souls down into the underworld. He was depicted as either a handsome and athletic, beardless youth or as an older, bearded man, with winged boots and a herald\"s wand.His Roman equivalent was Mercury."
+  },
+ 
+  { "imgSrc": "./imgs/gods/Poseidon.jpg", 
+    "name": "poseidon", 
+    "title": "Poseidon", 
+    "text": "Poseidon is best known as the Greek sea god, but he was also the god of horses and of earthquakes. (Thus, many of his temples were inland.) And he had some seriously strange children. Though humanoid, he fathered both the winged horse Pegasus (by Medusa, no less) and the Cyclops Polyphemus, who is blinded by Odysseus and his crew in the Odyssey. He was depicted as a mature man with a sturdy build and dark beard holding a trident.His Roman equivalent was Neptune."
+  },
+
+  { "imgSrc": "./imgs/gods/Zeus.jpg", 
+    "name": "zeus", 
+    "title": "Zeus", 
+    "text": "With the assistance of Hades and Poseidon, Zeus overthrew his father, Cronus, king of the Titans, and became the chief deity in a new pantheon comprising mostly his siblings and children. In addition to controlling the weather, Zeus was noted for his chronic infidelity to his sister-wife, Hera. He was depicted as a regal, mature man with a sturdy figure and dark beard. His usual attributes were a lightning bolt, a royal sceptre and an eagle. His Roman equivalent was Jupiter."
+  },
+
+  { "imgSrc": "./imgs/gods/Aphrodite.jpg", 
+    "name": "aphrodite", 
+    "title": "Aphrodite", 
+    "text": "Aphrodite was the goddess of love, sex, and beauty. Unsurprisingly for a love goddess, she was said to have emerged from the foam generated when the severed testicles of her father, Uranus, were thrown into the sea by his son, the Titan Cronus. Her attributes included a dove, apple, scallop shell and mirror. In classical sculpture and fresco she was usually depicted nude."
+  },
+
+  { "imgSrc": "./imgs/gods/Apollo.jpg", 
+    "name": "apollo", 
+    "title": "Apollo", 
+    "text": "The twin brother of Artemis, Apollo was among the most important (read: feared) of the gods. He was the Olympian god of prophecy and oracles, music, song and poetry, archery, healing, plague and disease, and the protection of the young. He was depicted as a handsome, beardless youth with long hair and attributes such as a wreath and branch of laurel, bow and quiver of arrows, raven, and lyre."
+  },
+
+  { "imgSrc": "./imgs/gods/Ares.jpg", 
+    "name": "ares", 
+    "title": "Ares", 
+    "text": "Ares was the god of bloodlust. (His half-sister Athena represented the more 'noble' aspects of combat and civil conduct during war.) Though his fellow deities weren’t particularly fond of him, the Spartans had no problems 'donating' some prisoners of war to his worship. In ancient Greek art he was depicted as either a mature, bearded warrior armed for battle, or a nude, beardless youth with a helm and spear. His Roman equivalent was Mars."
+  },
+
+  { "imgSrc": "./imgs/gods/Artemis.jpg", 
+    "name": "artemis", 
+    "title": "Artemis", 
+    "text": "Artemis was the fleet-footed goddess of the hunt. Often depicted in painting and sculpture with a deer or a hunting dog, she was both huntress and protectress of childbirth and girls up to the age of marriage--her twin brother Apollon was similarly the protector of the boy child. Together the two gods were also bringers of sudden death and disease--Artemis targetted women and girls, Apollon men and boys. Her Roman equivalent was Diana."
+  },
+
+  { "imgSrc": "./imgs/gods/Athena.jpg", 
+    "name": "athena", 
+    "title": "Athene", 
+    "text": "Athena was the goddess of reason, wisdom, and war. She famously sprung fully formed from the forehead of Zeus. A major figure in the Odyssey, in which she instructed Odysseus, she also guided Perseus and Heracles through their trials. The Parthenon was her chief temple in Athens, which is named in her honor. She was depicted as a stately woman armed with a shield and spear, and wearing a long robe, crested helm, and the famed aigis--a snake-trimmed cape adorned with the monstrous visage of the Gorgon Medousa (Medusa). Her Roman equivalent was Minerva."
+  },
+
+  { "imgSrc": "./imgs/gods/Demeter.jpg", 
+    "name": "demeter", 
+    "title": "Demeter", 
+    "text": "Demeter, an agricultural goddess, was mother to Persephone, who was abducted by the underworld god Hades to be his bride. While searching for her stolen daughter, she accepted the hospitality of the royal family of Eleusis. The Eleusinian Mysteries, perhaps the most important religious rites in ancient Greece, are attributed to her teachings. Demeter was depicted as a mature woman, often wearing a crown and bearing sheafs of wheat or a cornucopia (horn of plenty), and a torch.Her Roman equivalent was Ceres."
+  },
+
+  { "imgSrc": "./imgs/gods/Dionysus.jpg", 
+    "name": "dionysus", 
+    "title": "Dionysus", 
+    "text": "Dionysus was a son of Zeus born to a mortal mother. When Zeus accidentally killed her, he sewed the young Dionysus into his thigh and, when the young god emerged, passed him to the care of the maenads. He was the Olympian god of wine, vegetation, pleasure, festivity, madness and wild frenzy. He was depicted as either an older, bearded god or an effeminate, long-haired youth. His attributes included the thyrsos (a pine-cone tipped staff), a drinking cup and a crown of ivy. He was usually accompanied by a troop of Satyrs and Mainades (wild female devotees). Elements of his character are seen in the Roman god of wine, Bacchus."
+  },
+
+  { "imgSrc": "./imgs/gods/Hephaistos.jpg", 
+    "name": "hephaistos", 
+    "title": "Hephaistos", 
+    "text": "Hephaistos was the Olympian god of fire, smiths, craftsmen, metalworking, stonemasonry and sculpture. He was depicted as a bearded man holding a hammer and tongs - the tools of a smith - and sometimes riding a donkey."
+  },
+
+  { "imgSrc": "./imgs/gods/Hera.jpg", 
+    "name": "hera", 
+    "title": "Hera", 
+    "text": "The queen goddess of Olympus, Hera was both sister and wife to Zeus. Though she is often depicted as reserved and austere, she was mercilessly vindictive when it came to her husband’s many extramarital adventures. Unfortunately for the objects of Zeus’s godly affections, Hera tended to torment the other women (and their offspring, including Heracles) rather than Zeus himself. You can often see her wearing a crown and holding a royal, lotus-tipped sceptre. Her Roman equivalent was Juno."
+  },
+
+  { "imgSrc": "./imgs/gods/Hermes.jpg", 
+    "name": "hermes", 
+    "title": "Hermes", 
+    "text": "Hermes was the Olympian god of herds and flocks, travellers and hospitality, roads and trade, thievery and cunning, heralds and diplomacy, language and writing, athletic contests and gymnasiums, astronomy and astrology. He was the herald and personal messenger of Zeus, King of the Gods, and also the guide of the dead who led souls down into the underworld. He was depicted as either a handsome and athletic, beardless youth or as an older, bearded man, with winged boots and a herald\"s wand.His Roman equivalent was Mercury."
+  },
+
+  { "imgSrc": "./imgs/gods/Poseidon.jpg", 
+    "name": "poseidon", 
+    "title": "Poseidon", 
+    "text": "Poseidon is best known as the Greek sea god, but he was also the god of horses and of earthquakes. (Thus, many of his temples were inland.) And he had some seriously strange children. Though humanoid, he fathered both the winged horse Pegasus (by Medusa, no less) and the Cyclops Polyphemus, who is blinded by Odysseus and his crew in the Odyssey. He was depicted as a mature man with a sturdy build and dark beard holding a trident.His Roman equivalent was Neptune."
+  },
+
+  { "imgSrc": "./imgs/gods/Zeus.jpg", 
+    "name": "zeus", 
+    "title": "Zeus", 
+    "text": "With the assistance of Hades and Poseidon, Zeus overthrew his father, Cronus, king of the Titans, and became the chief deity in a new pantheon comprising mostly his siblings and children. In addition to controlling the weather, Zeus was noted for his chronic infidelity to his sister-wife, Hera. He was depicted as a regal, mature man with a sturdy figure and dark beard. His usual attributes were a lightning bolt, a royal sceptre and an eagle. His Roman equivalent was Jupiter."
+  }
+]

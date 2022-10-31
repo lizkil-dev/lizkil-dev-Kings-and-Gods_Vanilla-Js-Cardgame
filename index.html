@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<title>Kings and Gods - Memory Card Game</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<meta name="Description" content="Memory Card Game with greek Gods and roman Emperors">
+		<meta name="Keywords" content="">
+		<meta name="robots" content="noindex">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Serif:opsz@8..144&family=Viaoda+Libre&display=swap" rel="stylesheet"> 
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@400;500;600&display=swap" rel="stylesheet"> 
+    
+		<link rel="icon" type="image/png" sizes="32x32" href="./favicon.png">
+
+		<!-- externe CSS Links -->
+		<link rel="stylesheet" href="css/normalize.css">		
+		<link rel="stylesheet" href="css/style.css">
+
+		<!-- externe JS Datei-->
+		<script src="js/main.js" defer></script>
+
+    </head>
+<body>
+
+	<header>
+		<h1>Kings and Gods</h1>
+	</header>
+	
+	<main>
+	<aside class="left-column">
+		<div class="card-pair">
+		</div>
+		<div class="description">
+				<h2 class="description-title"></h2>
+				<p class="description-text"></p>
+		</div>
+	</aside>
+
+
+	<section class="card-deck">
+	</section>
+
+	
+	<aside class="right-column">
+		<div class="playCount">
+		<h3>Moves: <span class="movesCount"></span></h3>
+		<h4>Time: <span class="timer">0:00</span></h4>
+		</div>
+		<div class='chooseDeck chooseRomanDeck hideDeck'>			
+			<img id="pairOne" class="romanDeck" src="./imgs/emperors/augustus.jpg">
+			<img id="pairTwo" class="romanDeck" src="./imgs/emperors/augustus.jpg">
+			<h4>Roman Emperors</h4>
+		</div>
+		<div class='chooseDeck chooseGreekDeck hideDeck'>		<img id="pairOne" class="greekDeck" src="./imgs/	gods/Aphrodite.jpg">
+			<img id="pairTwo" class="greekDeck" src="./imgs/gods/Aphrodite.jpg">
+			<h4>Greek Gods</h4>
+		</div>
+	</aside>
+
+
+	<div id="helloModal">
+		<h3>Choose your Deck</h3>
+		<div>
+			<img class="chooseRoman" src="./imgs/emperors/augustus.jpg">
+			<p >Roman Emperors</p>
+		</div>
+		<div>
+			<img class="chooseGreek" src="./imgs/gods/Aphrodite.jpg">
+			<p>Greek Gods</p>
+		</div>
+	</div>
+	<div id="winModal">
+		<h3 class="congratulations"></h3>
+		<p class="textCount"></p>
+		<button id="playAgain">Play Again</button>
+	</div>
+		
+	
+
+	</main>
+	</body>
+</html>

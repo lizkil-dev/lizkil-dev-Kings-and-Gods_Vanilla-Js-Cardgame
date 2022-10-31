@@ -1,0 +1,333 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+    font-family: 'Inknut Antiqua', serif, 'Viaoda Libre';
+    font-size: 1rem;
+    font-weight: 500;
+    color: rgb(43, 15, 5);
+    height: 100vh;
+    background-image: url('../imgs/background1.jpg');
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+header {
+  font-size: 2.6rem;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+
+/***********HELLO BOX*************/
+
+#helloModal{
+  display: flex;
+  flex-wrap: wrap;
+	Width: 600px;
+	Height: 500px;
+	background-color:Antiquewhite; background-image: linear-gradient(90deg, Antiquewhite, #EBB265); 
+	Box-sizing: border-box; /* for inside padding */
+  border-radius: 50px;
+	Padding: 10px;
+  text-align: center;
+
+	/* for center */
+	position:absolute;
+	top:50%;
+	left:50%;
+	Transform: translate(-50%,-50%);
+
+  /* for hider */
+	display: block; 
+}
+
+#helloModal h3 {
+  font-size: 3rem;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+#helloModal p {
+  margin: 0 0 10px 0;
+  font-size: 2rem;
+  display: block;
+  padding: 0 30px;
+  
+}
+
+#helloModal img {
+  width: 20%;
+  cursor: pointer;
+  border-radius: 20px;
+  margin-top: 10px;
+
+}
+
+/****** ASIDES ***********/
+
+.left-column, .right-column {
+  display: flex;
+  width: 30%;
+  flex-wrap: wrap;
+}
+
+/******* left **********/
+
+.left-column {
+  padding-left: 50px;
+}
+
+.left-column img {
+  width: 50%;
+  margin-top: 5%;
+}
+
+div.card-pair {
+  position: relative;
+  height: 35%;
+}
+
+div.card-pair > img {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+div.card-pair > img ~ img {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+.left-column h2 {
+  font-size: 2rem;
+  margin-top: 10px;
+}
+
+div.description {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 80%;
+  line-height: 1.5rem;
+}
+
+div.description > div {
+  display: block;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+div.description > div ~ div {
+  display: block;
+  position: absolute;
+  top: -100;
+  left: 0;
+}
+
+
+
+/****** CARD DECK *********/
+
+.card-deck {
+  width: 40%;
+  height: 30rem;
+  padding: 0 10px;
+  display: flex;
+  flex-wrap: wrap;
+  perspective: 800px;
+}
+
+.card-deck div {
+  width: 15%;
+  height: 25%;
+  margin: 5px;
+}
+
+.card {
+  position: relative;
+  transform-style: preserve-3d;
+  transition: all 1.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
+}
+
+.face, .back {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  pointer-events: none;
+}
+
+.face {
+  transform: rotateY(-180deg);
+}
+
+.back {
+  backface-visibility: hidden;
+}
+
+.toggleCard {
+  transform: rotateY(180deg);
+}
+
+.hide {
+  visibility: hidden;
+}
+
+
+/*********right*************/
+
+.playCount span {
+  font-size: 2rem;
+}
+
+.right-column div {
+  margin: 0 50px 0 0;
+  width: 100%;
+  height: 30px;
+  text-align: right;
+}
+
+.playCount h3, h4 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  }
+
+.chooseDeck h3 {
+  font-size: 2rem;
+}
+
+.chooseDeck h4 {
+  font-size: 1.3rem;
+  margin-top: 10px;
+}
+
+.chooseDeck img {
+  width: 120px;  
+}
+
+div.chooseDeck {
+  position: relative;
+  height: 50%;
+}
+
+#pairOne {
+  position: relative;
+  top: 0;
+  left: 0;
+  transition-duration: 0.3s;
+  transform: rotate(5deg);
+}
+
+#pairTwo {
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: rotate(10deg);
+  z-index: -1;
+}
+
+#pairOne:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition-timing-function: ease-in-out;
+}
+
+.hideDeck {
+  display: none;
+}
+
+
+/*********ALERT WHEN WIN**************/
+
+#winModal{
+  display: flex;
+  flex-wrap: wrap;
+	Width: 500px;
+	Height: 300px;
+	background-color:Antiquewhite; background-image: linear-gradient(90deg, Antiquewhite, #EBB265); 
+	Box-sizing: border-box; /* for inside padding */
+  border-radius: 50px;
+	Padding: 10px;
+  text-align: center;
+
+	/* for center */
+	Position:absolute;
+	top:50%;
+	left:50%;
+	Transform: translate(-50%,-50%);
+
+  /* for hider */
+	display:none; 
+}
+
+#winModal h3 {
+  font-size: 3rem;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+#winModal p {
+  margin: 0 0 10px 0;
+  font-size: 2rem;
+  display: block;
+  padding: 0 30px;
+  
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+@media screen and (max-width:1550px){
+
+  .left-column, .right-column {
+    display: flex;
+    width: 25%;
+    flex-wrap: wrap;
+  }
+
+  .left-column h2 {
+    margin-top: 5px;
+  }
+
+  .card-deck {
+    width: 50%;
+    height: 30rem;
+    padding: 0 10px;
+    display: flex;
+    flex-wrap: wrap;
+    perspective: 800px;
+  }
+
+}
