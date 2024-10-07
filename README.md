@@ -1,5 +1,5 @@
 # lizkil-dev-Kings-and-Gods_Vanilla-Js-Cardgame
-Is there any developer who hasn't built a tictactoe or memory card game in the beginning of his career? Here is my version with greek gods and roman emperors :)
+My version of a memory card game with greek gods and roman emperors :)
 
 
 
